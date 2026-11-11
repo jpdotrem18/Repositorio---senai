@@ -6,3 +6,4 @@ while True:
         print("Resultado:", eval(expr))
     except Exception:
         print("Conta inválida!")
+        print("Tchau!")
