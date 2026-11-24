@@ -21,4 +21,4 @@ def exibir(self):
     print ("-"* 80)
 
     p1 = produto ("Arroz", 5.99, 30)
-    p2 = produto ("Macarrão",)
+    p2 = produto ("Macarrão",) 
